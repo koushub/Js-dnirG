@@ -1,2 +1,2 @@
 # Js-dnirG
-1st
+ Learning Js
