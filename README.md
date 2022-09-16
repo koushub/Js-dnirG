@@ -1,4 +1,3 @@
-# Js-dnirG
- Learning Js
- 
- https://koushub.github.io/1-Js-dnirG/
+# Motivational-quote
+Using a quote API to generate random quotes 
+https://koushub.github.io/Motivational-quote/
